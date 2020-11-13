@@ -1,0 +1,6 @@
+development:
+  database: statistics
+  username: joel
+  password: 12345678
+  hostname: localhost
+    #<%= ENV['MYAPP_DATABASE_PASSWORD'] %>
